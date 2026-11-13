@@ -1,3 +1,7 @@
+# suman-portfolio
+
+My Personal Developer Portfolio Website
+
 # Suman Maity — React Portfolio
 
 A static, responsive personal portfolio built with React, Vite and plain CSS. It has no backend or database.
@@ -28,6 +32,7 @@ The production files are generated in `dist/`.
 ## Personalise before publishing
 
 Edit `src/data/portfolio.js`:
+
 - Replace the example email address.
 - Replace GitHub and LinkedIn profile URLs.
 - Replace the phone placeholder or remove the phone field if not needed.
@@ -36,10 +41,12 @@ Edit `src/data/portfolio.js`:
 - Add or update project links and descriptions.
 
 Add your own portrait:
+
 - Put your photo in `public/profile.jpg`.
 - The hero section automatically shows an initials fallback if the photo is missing.
 
 Add your actual resume:
+
 - Put your PDF in `public/resume.pdf`.
 - The Resume button links to that file. Do not publish a placeholder or someone else's resume.
 
